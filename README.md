@@ -1,6 +1,6 @@
 # Nutrition Expert Chatbot (MCP Client)
 
-This project is a **Nutrition Expert Chatbot** that provides personalized nutrition insights and answers questions based on *Deep Nutrition* by Dr. Cate Shanahan.  
+This project is a **Nutrition Expert Chatbot** using **Spring AI** that provides personalized nutrition insights and answers questions based on *Deep Nutrition* by Dr. Cate Shanahan.  
 It integrates a **Retrieval-Augmented Generation (RAG)** pipeline with a summary of the book, includes a **Memory Advisor** to personalize responses, and functions as an **MCP client** connecting to an MCP server via **Server-Sent Events (SSE)**.
 
 ## 📌 Features
